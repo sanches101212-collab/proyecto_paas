@@ -1,0 +1,107 @@
+{
+  "dev": [
+    {
+      "tipo": "web",
+      "tamano": "pequeno",
+      "cifrado": true,
+      "nombre": "dev-web-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "dev"
+      }
+    },
+    {
+      "tipo": "db",
+      "tamano": "pequeno",
+      "cifrado": true,
+      "nombre": "dev-db-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "dev"
+      }
+    },
+    {
+      "tipo": "almacenamiento",
+      "tamano": "pequeno",
+      "cifrado": true,
+      "nombre": "dev-almacenamiento-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "dev"
+      }
+    }
+  ],
+  "test": [
+    {
+      "tipo": "web",
+      "tamano": "pequeno",
+      "cifrado": true,
+      "nombre": "test-web-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "test"
+      }
+    },
+    {
+      "tipo": "db",
+      "tamano": "pequeno",
+      "cifrado": true,
+      "nombre": "test-db-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "test"
+      }
+    },
+    {
+      "tipo": "almacenamiento",
+      "tamano": "pequeno",
+      "cifrado": true,
+      "nombre": "test-almacenamiento-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "test"
+      }
+    }
+  ],
+  "prod": [
+    {
+      "tipo": "web",
+      "tamano": "mediano",
+      "cifrado": true,
+      "nombre": "prod-web-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "prod"
+      }
+    },
+    {
+      "tipo": "db",
+      "tamano": "mediano",
+      "cifrado": true,
+      "nombre": "prod-db-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "prod"
+      }
+    },
+    {
+      "tipo": "almacenamiento",
+      "tamano": "mediano",
+      "cifrado": true,
+      "nombre": "prod-almacenamiento-tienda",
+      "etiquetas": {
+        "responsable": "equipo-1",
+        "centro_costo": "escuela",
+        "entorno": "prod"
+      }
+    }
+  ]
+}

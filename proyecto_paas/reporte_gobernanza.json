@@ -1,0 +1,38 @@
+[
+  {
+    "objeto": "MiBaseDePruebas",
+    "directiva": "Coherencia: nombre entorno-tipo-proyecto"
+  },
+  {
+    "objeto": "MiBaseDePruebas",
+    "directiva": "Coherencia: etiquetas obligatorias"
+  },
+  {
+    "objeto": "MiBaseDePruebas",
+    "directiva": "Costos: región permitida"
+  },
+  {
+    "objeto": "MiBaseDePruebas",
+    "directiva": "Seguridad: cifrado activado"
+  },
+  {
+    "objeto": "MiBaseDePruebas",
+    "directiva": "Seguridad: sin acceso público (salvo web)"
+  },
+  {
+    "objeto": "luis",
+    "directiva": "Identidad: MFA activado"
+  },
+  {
+    "objeto": "compartida-ti",
+    "directiva": "Identidad: MFA activado"
+  },
+  {
+    "objeto": "compartida-ti",
+    "directiva": "Identidad: no usar cuentas compartidas"
+  },
+  {
+    "objeto": "ana, compartida-ti",
+    "directiva": "Identidad: mínimo privilegio (1 propietario)"
+  }
+]
